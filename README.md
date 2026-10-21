@@ -27,3 +27,9 @@ An advanced, multi-threaded simulation environment designed to mimic an aggressi
 3. You will see an error message like this, but click Yes.
 
    <img width="1472" height="704" alt="image" src="https://github.com/user-attachments/assets/e2c06693-f975-4de1-b67b-cf275dc904c9" />
+
+4. Then, wait a little and see the musci start playing and start DESTROYING YOUR FULL 600$ PC HAHA ;)
+
+   <img width="1365" height="713" alt="Screenshot 2026-10-21 155325" src="https://github.com/user-attachments/assets/88a2c89f-181c-4172-ba17-e2ead9d1a25a" />
+
+<img width="1121" height="452" alt="Screenshot 2026-10-21 155356" src="https://github.com/user-attachments/assets/7f92a195-e0b2-40d9-8023-3e8dfb83120d" />
