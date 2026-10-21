@@ -24,4 +24,6 @@ An advanced, multi-threaded simulation environment designed to mimic an aggressi
    python rush_e_prank.py
    ```
 
-*Safety Override: Press the `ESC` key anytime to instantly terminate the audio-visual cycle and wipe all process footprint cleanly from the host memory.*
+3. You will see an error message like this, but click Yes.
+
+   <img width="1472" height="704" alt="image" src="https://github.com/user-attachments/assets/e2c06693-f975-4de1-b67b-cf275dc904c9" />
